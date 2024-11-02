@@ -1,6 +1,6 @@
 # fs_mod_parser_neon
 
-**fs_mod_parser_neon:** Neon bindings for fs_mod_parser
+**fs_mod_parser_neon:** Neon bindings for [fs_mod_parser](https://docs.rs/fs_mod_parser/latest/fs_mod_parser/)
 
 This project was bootstrapped by [create-neon](https://www.npmjs.com/package/create-neon).
 
