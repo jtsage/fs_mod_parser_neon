@@ -1,6 +1,6 @@
 {
   "name": "fs_mod_parser_neon",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "Neon bindings for fs_mod_parser",
   "main": "index.node",
   "scripts": {

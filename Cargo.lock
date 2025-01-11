@@ -270,9 +270,9 @@ dependencies = [
 
 [[package]]
 name = "fs_mod_parser"
-version = "0.1.4"
+version = "0.1.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6dbef3129bb72fb7caa3bc3d68f6b23321f65abd8883a14a5632cb1541af5954"
+checksum = "edf2b6b4bc233500392a4de9e7383fd5ee21cfc5e93425af84c5243d70e05562"
 dependencies = [
  "base64",
  "chrono",
